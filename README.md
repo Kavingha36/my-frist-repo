@@ -1,9 +1,6 @@
-# my-frist-repo
+ ## what I Learnesd Today
 
-# my frist repository
-A biginner Github project
-created durimg the workshop.
+ I am currently attending a GitHub Workshop
+ Today I lened about : - Version control  - Creating a repository - The edit-commit-push cycle
 
-## About me
-My name is  **Adhithya**.
-Iam learning Github.
+My GitHub profile : https://github.com/Kavingha36
